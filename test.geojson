@@ -1,1 +1,3 @@
- {"type": "Point", "coordinates": [-121.7381 , 38.5539]}
+ { "type": "LineString",
+    "coordinates": [ [100.0, 0.0], [101.0, 1.0] ]
+    }
